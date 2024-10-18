@@ -1,4 +1,4 @@
-HALO
+HALO ALIYA
 
 # Welcome to your Expo app 👋
 
